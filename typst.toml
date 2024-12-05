@@ -1,0 +1,8 @@
+[package]
+name = "Digit2Text"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["@SeanHalvorson"]
+license = "MIT"
+description = "A simple typst package to convert integers to full english written out numbers"
+
